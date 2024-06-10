@@ -1,6 +1,6 @@
 ## Tanzania Water Wells Model.
 
-<img src="images/Design1.png" alt="Project photo cover" width="300" height="200"/>
+<img src="images/Design1.png" alt="Project photo cover" width="600" height="400"/>
 
 
 ## Table of Contents.
